@@ -48,6 +48,9 @@ Anime • Game • Music
   <a href="https://www.reddit.com/user/QiuraXD/">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
+  <a href="https://www.linkedin.com/in/komang-emo-437170367/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 </div>
