@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋
+<img src="img/github-header-banner.png"/>
 
 **I'm a full-stack developer currently finishing degree in computer engineering.**
 
